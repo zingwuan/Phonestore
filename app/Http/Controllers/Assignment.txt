@@ -1,0 +1,6 @@
+1: BrandProduct,CategoryProduct
+2: ProductController,SlideController
+3: CartController, CouponController
+4: CheckoutController
+5: AdminController
+6: HomeController
